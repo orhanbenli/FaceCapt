@@ -1,4 +1,8 @@
-# FaceCapt
+# FaceCapt - Front End
+1. Please clone this repo
+2. Then, run ```npm install```
+3. After that, run ```npm start```
+4. Finally, you must add your own API key in the ```src/App.js``` file to connect to [Clarifai](https://www.clarifai.com/)
 
 # Getting Started with Create React App
 
