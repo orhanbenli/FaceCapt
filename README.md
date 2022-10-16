@@ -4,6 +4,10 @@
 3. After that, run ```npm start```
 4. Finally, you must add your own API key in the ```src/App.js``` file to connect to [Clarifai](https://www.clarifai.com/)
 
+[FaceCapt](https://facecapt.herokuapp.com/) is a full stack application using an image recognition API to detect faces in the images uploaded!
+
+#Screenshots
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
