@@ -6,7 +6,7 @@
 
 [FaceCapt](https://facecapt.herokuapp.com/) is a full stack application using an image recognition API to detect faces in the images uploaded!
 
-#Screenshots
+## Screenshots
 
 # Getting Started with Create React App
 
